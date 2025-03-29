@@ -10,7 +10,7 @@ title: Melanie Baljko
 
 I am an Associate Professor in [Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/)  at the  [Lassonde School of Engineering](http://lassonde.yorku.ca/)  at  [York University](http://www.yorku.ca) where I lead the [Practices in Enabling Technologies (PiET) Lab](https://piet.apps01.yorku.ca/).  I am a full member of the graduate programs in [Science & Technology Studies](http://sts.gradstudies.yorku.ca/), [Critical Disability Studies](http://cds.gradstudies.yorku.ca/), [Digital Media](http://digitalmedia.gradstudies.yorku.ca/), and [Interdisciplinary Studies](http://interdis.gradstudies.yorku.ca/).  
 Here is my [[brief history]] prior to my faculty appointment.  
-Here are some other sources about me and my activities:  
+### Here are some other sources about me and my activities:  
 
  [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0002-6205-1132](https://orcid.org/0000-0002-6205-1132)  
  
