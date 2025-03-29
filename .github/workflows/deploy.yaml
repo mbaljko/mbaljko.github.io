@@ -31,7 +31,7 @@ jobs:
       - name: Build Quartz Site
         run: npx quartz build
       - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
  
