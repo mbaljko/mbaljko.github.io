@@ -1,0 +1,19 @@
+name: Melanie Baljko
+bio: my bio
+avatar: ./avatar.png
+
+site:
+  title: "My Quartz Site"
+  base_url: "https://mbaljko.github.io"
+
+links:
+  - name: GitHub
+    icon: github
+    url: https://mbaljko.github.io
+  - name: Twitter
+    icon: twitter
+    url: https://twitter.com/yourhandle
+
+# Optional extras
+location: Toronto, Canada
+theme:
