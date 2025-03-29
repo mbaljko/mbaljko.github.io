@@ -22,4 +22,4 @@ Here is my [[Brief Personal History]] prior to my faculty appointment.
 
 [https://www.zotero.org/mbaljko/](https://www.zotero.org/mbaljko/)
 
-...
+oXo
