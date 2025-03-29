@@ -18,4 +18,5 @@ Here is my [[brief history]] prior to my faculty appointment.
 
 [Melanie Baljko | York Experts Guide](http://news.yorku.ca/experts/?name_or_keyword=baljko&research_area=&submit=Search+the+Guide&search=Y)  
 
-[Melanie Baljko | LinkedIn](https://www.linkedin.com/in/melanie-baljko-2b22314/)
+[Melanie Baljko | LinkedIn](https://www.linkedin.com/in/melanie-baljko-2b22314/)  
+
