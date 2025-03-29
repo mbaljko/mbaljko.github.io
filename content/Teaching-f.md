@@ -1,4 +1,4 @@
-# Teaching
+# Teaching and Learning
 
 ### Graduate-Level Teaching
 The graduate course which most closely aligns with my research is **GS/CSE 6330 3.0 "Technoableism"** (prior title:“Critical Technical Practise: Computer Accessibility and Assistive Technology”). This course examines issues at the intersection of ableism and  technological design in computer accessibility and computational forms of assistive technology (hardware and/or software). Students learn to critically reflect on the hidden assumptions, ideologies and values underlying the design of these technologies, and to analyse and to design them.
