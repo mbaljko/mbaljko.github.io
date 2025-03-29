@@ -21,3 +21,5 @@ Here is my [[Brief Personal History]] prior to my faculty appointment.
 [Melanie Baljko | LinkedIn](https://www.linkedin.com/in/melanie-baljko-2b22314/)  
 
 [https://www.zotero.org/mbaljko/](https://www.zotero.org/mbaljko/)
+
+...
