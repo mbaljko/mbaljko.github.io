@@ -1,7 +1,6 @@
 ---
 title: Melanie Baljko
 ---
-
 # Overview
 
 > [!QUOTE]
